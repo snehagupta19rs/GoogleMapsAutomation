@@ -1,7 +1,11 @@
+**#GoogleMapsAutomation#**
+
 **ABOUT THE PROJECT**
+
 This is a test automation project for GoogleMaps.This is NUnit test framework created in Selenium and C#. It uses Page Object Model design pattern.
 
 **Project Directory Tree**
+
 GoogleMapTestAutomation
 ¦   
 +---Assertions
@@ -42,6 +46,7 @@ GoogleMapTestAutomation
         ReadTestData.cs
 
 **GETTING STARTED**
+
 This project is build in VisualStudio 2022 Community addition.
 
 Clone this project and run below command at cloned location to build the project.
