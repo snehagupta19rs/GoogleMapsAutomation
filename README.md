@@ -7,6 +7,7 @@ This is a test automation project for GoogleMaps.This is NUnit test framework cr
 **PROJECT FOLDER TREE STRUCTURE**
 
 GoogleMapTestAutomation
+        
         Assertions
                 ValidateSearch.cs 	--contains class having methods for expected and actual results validation  
         
@@ -21,17 +22,17 @@ GoogleMapTestAutomation
                
         Helper                   
                 GoogleMapsHelper.cs
-              	ReadTestDataHelper.cs
-              	WaitHelper.cs		--contains classes with helper methods to create workflows
+                ReadTestDataHelper.cs
+                WaitHelper.cs		--contains classes with helper methods to create workflows
                
         Pages
         	GoogleMapsPage.cs
            	GoogleMapsSearchPage.cs	--contains page objects and related interaction methods
             
         Report 
-        	ExtentService.cs
-               	ExtentTestManager.cs
-               	ReportLog.cs		--contains classes for extent report generation
+                ExtentService.cs
+                ExtentTestManager.cs
+                ReportLog.cs		--contains classes for extent report generation
         TestData
         	AddressList.csv		--contains csv for test data
       
@@ -47,7 +48,9 @@ GoogleMapTestAutomation
 This project is build in VisualStudio 2022 Community addition.
 
 Clone this project and run below command at cloned location to build the project.
-**dotnet build GoogleMapTestAutomation.csproj **
+        
+        dotnet build GoogleMapTestAutomation.csproj
 
 Execute below command to execute the tests
-**dotnet test GoogleMapTestAutomation.csproj -e browserName=chrome**
+        
+        dotnet test GoogleMapTestAutomation.csproj -e browserName=chrome
