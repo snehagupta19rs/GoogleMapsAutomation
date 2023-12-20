@@ -3,8 +3,9 @@
 ################################################################################
 
 /.vs
-/GoogleMapTestAutomation/.vs
-/GoogleMapTestAutomation/bin/
-/GoogleMapTestAutomation/obj
-
+/bin/
+./bin/
+/bin/Debug/
+/bin/Release/
+/obj
 
