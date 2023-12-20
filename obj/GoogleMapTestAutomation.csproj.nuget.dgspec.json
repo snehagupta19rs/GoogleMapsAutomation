@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sneha\\TestAutomation\\GoogleMapTestAutomation\\GoogleMapTestAutomation.csproj": {}
+    "C:\\Users\\Sneha\\GoogleMapTestAutomation\\GoogleMapTestAutomation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sneha\\TestAutomation\\GoogleMapTestAutomation\\GoogleMapTestAutomation.csproj": {
+    "C:\\Users\\Sneha\\GoogleMapTestAutomation\\GoogleMapTestAutomation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sneha\\TestAutomation\\GoogleMapTestAutomation\\GoogleMapTestAutomation.csproj",
+        "projectUniqueName": "C:\\Users\\Sneha\\GoogleMapTestAutomation\\GoogleMapTestAutomation.csproj",
         "projectName": "GoogleMapTestAutomation",
-        "projectPath": "C:\\Users\\Sneha\\TestAutomation\\GoogleMapTestAutomation\\GoogleMapTestAutomation.csproj",
+        "projectPath": "C:\\Users\\Sneha\\GoogleMapTestAutomation\\GoogleMapTestAutomation.csproj",
         "packagesPath": "C:\\Users\\Sneha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sneha\\TestAutomation\\GoogleMapTestAutomation\\obj\\",
+        "outputPath": "C:\\Users\\Sneha\\GoogleMapTestAutomation\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

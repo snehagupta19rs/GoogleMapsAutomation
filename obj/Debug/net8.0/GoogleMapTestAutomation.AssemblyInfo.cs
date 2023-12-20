@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GoogleMapTestAutomation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+09d60ebffe0b17d0b9a4e3f30e8fbb16c770e415")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("GoogleMapTestAutomation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GoogleMapTestAutomation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
