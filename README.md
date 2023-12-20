@@ -1,4 +1,4 @@
-**#GoogleMapsAutomation#**
+**GoogleMapsAutomation**
 
 **ABOUT THE PROJECT**
 
