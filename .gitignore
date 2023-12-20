@@ -4,4 +4,7 @@
 
 /.vs
 /GoogleMapTestAutomation/.vs
+/GoogleMapTestAutomation/bin/
+/GoogleMapTestAutomation/obj
+
 
