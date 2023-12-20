@@ -4,7 +4,7 @@
 
 This is a test automation project for GoogleMaps.This is NUnit test framework created in Selenium and C#. It uses Page Object Model design pattern.
 
-**Project Directory Tree**
+**PROJECT FOLDER TREE STRUCTURE**
 
 GoogleMapTestAutomation
 ¦   
